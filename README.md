@@ -64,7 +64,7 @@ I build modern web and Android applications, explore secure network systems, and
 | Project | What I Built | Technologies |
 |---|---|---|
 | 📸 **[SnapNext](https://photobox-saas-main-ews1.vercel.app/)** | SaaS photo booth platform with authentication, subscription packages, session quotas, and personal photo galleries. | Next.js 15, TypeScript, Supabase, Tailwind CSS |
-| 🛡️ **TRIASE-Net** | Secure student complaint service exploring Zero Trust Network Access and adaptive encryption. | Next.js, TypeScript, Vitest |
+| 🛡️ **[TRIASE-Net](https://triase-net-rouge.vercel.app/)** | Secure student complaint service exploring Zero Trust Network Access and adaptive encryption. | Next.js, TypeScript, Vitest |
 | 🏡 **[Suara Digital Desa](https://play.google.com/store/apps/details?id=com.suaradigitaldesa)** | Android app for village announcements, citizen reports, status tracking, community news, and emergency contacts. | Android Development |
 | 🏨 **[Regal Stay](https://regal-stay.vercel.app/)** | Responsive luxury hotel website with a REST API hosted on a Debian Linux virtual machine. | HTML, CSS, JavaScript, Node.js, Express |
 | 🤝 **Siskamling App — KMIPN 2026** | Team-developed neighborhood-watch application for a national e-government competition. | Frontend & Backend Development |
